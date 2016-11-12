@@ -4,6 +4,8 @@ Converts paragraphs containing textual representation of numbers to decimal valu
 
 e.g. There are twelve apples -> There are 12 apples
 
+Useful for text mining and extracting metadata from text documents
+
 ## Getting Started
 
 Run WordsToNumbersUtil.java
